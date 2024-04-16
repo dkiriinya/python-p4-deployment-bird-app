@@ -1,0 +1,1 @@
+DATABASE_URI='postgresql://trial_basis_user:bjAaz6Y3DcW8nOqQVpDBu17JVKPpVcLQ@dpg-cof1g70cmk4c73fu9am0-a.oregon-postgres.render.com/trial_basis'
